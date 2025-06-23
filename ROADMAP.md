@@ -11,6 +11,9 @@ Welcome to the GCAI (Global Crisis Anticipator Initiative) development roadmap. 
 - [ ] Register GCAI legally under a suitable jurisdiction
 - [ ] Publish first whitepaper and policy brief
 - [ ] Establish early partnerships and advisory board
+- [ ] Launch official **GCAI website** to centralize project information
+- [ ] Begin setting up physical **office workspace** for operations
+- [ ] Procure essential **office equipment** (computers, internet, furniture, etc.)
 
 ---
 
@@ -21,7 +24,7 @@ Welcome to the GCAI (Global Crisis Anticipator Initiative) development roadmap. 
 - [ ] Build and test initial models (ML/LLMs) for predictive simulations
 - [ ] Simulate 2–3 regional case studies (Africa, Middle East, Eastern Europe)
 - [ ] Incorporate de-biasing mechanisms across model layers
-- [ ] Set up GCAI web portal with public awareness dashboard
+- [ ] Expand GCAI website with interactive platform demos and research sections
 
 ---
 
@@ -47,3 +50,4 @@ Welcome to the GCAI (Global Crisis Anticipator Initiative) development roadmap. 
 ## 💡 Get Involved
 
 We welcome collaborators, AI researchers, policy experts, and peacebuilders. To contribute, fork this repo or reach out to us at **samoride1@gmail.com**.
+
